@@ -1,3 +1,10 @@
+# to use this program first you need to install pytube
+# in the terminal:
+#
+# pip install pytube
+#
+
+
 from pytube import YouTube
 import sys
 
